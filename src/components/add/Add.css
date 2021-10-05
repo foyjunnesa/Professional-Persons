@@ -1,0 +1,14 @@
+.add{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* background-color: slateblue; */
+    
+    
+}
+
+.name{
+    height: 250px;
+    border-right: 1px solid wheat;
+    margin-right: 5px;
+    margin-left: 50px;
+}

@@ -1,0 +1,17 @@
+.bio{
+    background-color: slateblue;
+    padding-top: 15px;
+padding-left: 350px;
+margin-left: 100px;
+}
+
+.purchas-btn{
+    background-color: black;
+    color: blanchedalmond;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid lavender;
+    cursor: pointer;
+    
+}

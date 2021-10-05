@@ -1,0 +1,19 @@
+.header{
+    
+}
+
+.list{
+    background-color: slateblue;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+.p{
+    margin-right: 50px;
+    margin-left: 70px;
+}

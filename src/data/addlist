@@ -1,0 +1,91 @@
+const Findlist = [
+    {
+        name: 'Md Anwar Hossain',
+        work: 'Business',
+        currentCity: 'Nator',
+        homeTown: 'Nator',
+        age: 55,
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYb0WgdtWue1jKCcgQIw2E65RCx4F8DnoRA&usqp=CAU'
+    },
+
+    {
+        name: 'Tipu Chowdhury',
+        work: 'Business',
+        currentCity: 'Motijil,Dhaka',
+        homeTown: 'Barishal',
+        age: 37,
+        img: 'https://www.pngitem.com/pimgs/m/404-4042710_circle-profile-picture-png-transparent-png.png'
+    },
+
+    {
+        name: 'Shanto Mojumdar',
+        work: 'Ploitician',
+        currentCity: 'Kishoreganj,Dhaka',
+        homeTown: 'Kishoreganj',
+        age: 25,
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTAE4bMQVGBS5CjIzdbJmZs4e0AFxBILUrQ&usqp=CAU'
+    },
+
+    {
+        name: 'Md Anwar Hossain',
+        work: 'Business',
+        currentCity: 'Uttara,Dhaka',
+        homeTown: 'Barishal',
+        age: 35,
+        img: 'https://www.pngitem.com/pimgs/m/404-4042710_circle-profile-picture-png-transparent-png.png'
+    },
+
+    {
+        name: 'Humayun Ahmed',
+        work: 'writer',
+        currentCity: 'Uttara,Dhaka',
+        homeTown: 'Jamalpur',
+        age: 35,
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqAXE_zkEwLluNexVZ4lULfcONI7blSsoBw&usqp=CAU'
+    },
+
+    {
+        name: 'Sonia Grand',
+        work: 'Singer',
+        currentCity: 'Uttara,Dhaka',
+        homeTown: 'Khulna',
+        age: 35,
+        img: 'https://p.kindpng.com/picc/s/442-4426528_round-picture-profile-blond-hd-png-download.png'
+    },
+
+    {
+        name: 'Monalisa Khanom',
+        work: 'Actress',
+        currentCity: 'Gulshan,Dhaka',
+        homeTown: 'Barishal',
+        age: 25,
+        img: 'https://www.kindpng.com/picc/m/394-3947019_round-profile-picture-png-transparent-png.png'
+    },
+
+    {
+        name: 'Jomshed Rana',
+        work: 'Magician',
+        currentCity: 'Mohanagar,Dhaka',
+        homeTown: 'Pirujpur',
+        age: 35,
+        img: 'https://www.pikpng.com/pngl/m/390-3904056_round-profile-round-profile-clipart.png'
+    },
+
+    {
+        name: 'A.K.M Shahid Khan',
+        work: 'Job',
+        currentCity: 'Gulshan,Dhaka',
+        homeTown: 'Kishoreganj',
+        age: 29,
+        img: 'https://png.pngitem.com/pimgs/s/627-6275754_chad-profile-pic-profile-photo-circle-png-transparent.png'
+    },
+
+    {
+        name: 'Md Towfiqul Islam',
+        work: 'Business',
+        currentCity: 'Jatrabari,Dhaka',
+        homeTown: 'Gajipur',
+        age: 55,
+        img: 'https://keithrosen.com/wp-content/uploads/2012/09/Keith-Rosen-Profile-Pic-Rounded-Transparent1.png'
+    }
+]

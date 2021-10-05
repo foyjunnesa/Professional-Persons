@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Md Anwar Hossain",
+        "work": "banker",
+        "currentCity": "Nator",
+        "homeTown": "Nator",
+        "age": 55,
+        "salary": 12155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYb0WgdtWue1jKCcgQIw2E65RCx4F8DnoRA&usqp=CAU"
+    },
+    {
+        "name": "Tipu Chowdhury",
+        "work": "engineer",
+        "currentCity": "Motijil,Dhaka",
+        "homeTown": "Barishal",
+        "age": 37,
+        "salary": 22155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfqPiUnz4YXuHRjrsqLhzXrM0nTugwPZ8lg&usqp=CAU"
+    },
+    {
+        "name": "Shanto Mojumdar",
+        "work": "Ploitician",
+        "currentCity": "Kishoreganj,Dhaka",
+        "homeTown": "Kishoreganj",
+        "age": 25,
+        "salary": 17155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTAE4bMQVGBS5CjIzdbJmZs4e0AFxBILUrQ&usqp=CAU"
+    },
+    {
+        "name": "Md Akbor Hossain",
+        "work": "doctor",
+        "currentCity": "Uttara,Dhaka",
+        "homeTown": "Barishal",
+        "age": 35,
+        "salary": 14155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgkhowaWw0_KNzjAysllHRqgcjP3I4J088A&usqp=CAU"
+    },
+    {
+        "name": "Humayun Ahmed",
+        "work": "writer",
+        "currentCity": "Uttara,Dhaka",
+        "homeTown": "Jamalpur",
+        "age": 35,
+        "salary": 22155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqAXE_zkEwLluNexVZ4lULfcONI7blSsoBw&usqp=CAU"
+    },
+    {
+        "name": "Sonia Grand",
+        "work": "youtuber",
+        "currentCity": "Uttara,Dhaka",
+        "homeTown": "Khulna",
+        "age": 35,
+        "salary": 1155,
+        "img": "https://p.kindpng.com/picc/s/442-4426528_round-picture-profile-blond-hd-png-download.png"
+    },
+    {
+        "name": "Monalisa Khanom",
+        "work": "banker",
+        "currentCity": "Gulshan,Dhaka",
+        "homeTown": "Barishal",
+        "age": 25,
+        "salary": 33155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnK3euo_u2GJxUBHBR90N0kLcKTDU7fL-dWA&usqp=CAU"
+    },
+    {
+        "name": "Jomshed Rana",
+        "work": "programmer(python)",
+        "currentCity": "Mohanagar,Dhaka",
+        "homeTown": "Pirujpur",
+        "age": 35,
+        "salary": 61655,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRmexku4sWN6wxU4DDmyl_6F898jGFNniPw&usqp=CAU"
+    },
+    {
+        "name": "A.K.M Shahid Khan",
+        "work": "web developer",
+        "currentCity": "Gulshan,Dhaka",
+        "homeTown": "Kishoreganj",
+        "age": 29,
+        "salary": 71155,
+        "img": "https://png.pngitem.com/pimgs/s/627-6275754_chad-profile-pic-profile-photo-circle-png-transparent.png"
+    },
+    {
+        "name": "Md Towfiqul Islam",
+        "work": "Police",
+        "currentCity": "Jatrabari,Dhaka",
+        "homeTown": "Gajipur",
+        "age": 55,
+        "salary": 27155,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyrjKnnSE6VBawzY7b5XIR_bX8UDlbqV7P7CncN8GulHBED4Q2WaGiyncgN6sRhxyLls&usqp=CAU"
+    }
+]
