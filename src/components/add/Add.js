@@ -1,6 +1,5 @@
 import React from 'react';
-import { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useState, useEffect } from 'react';
 import Cut from '../Cut/Cut';
 import List from '../list/List';
 import './Add.css'
